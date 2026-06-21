@@ -13,7 +13,7 @@ const pixelifySans = localFont({
   display: "swap",
 });
 
-const siteUrl = "https://ernest-windel-dreo.vercel.app";
+const siteUrl = "https://ernest-windel-dreo-portfolio.vercel.app";
 const siteDescription =
   "Interactive pixel-art portfolio of Ernest Windel Dreo, Software Developer, QA Engineer, and aspiring AI Engineer specializing in full-stack development, software testing, and AI-powered applications.";
 const gtmId = process.env.NEXT_PUBLIC_GTM_ID;
