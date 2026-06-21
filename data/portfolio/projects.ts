@@ -61,7 +61,7 @@ export const projects = [
     meta:
       "Personal Portfolio | React, Vite, Tailwind CSS, Framer Motion",
     links: [
-      { label: "Live", href: "https://ernest-windel-dreo.vercel.app/" },
+      { label: "Live", href: "https://ernest-windel-dreo-portfolio.vercel.app" },
       { label: "GitHub", href: "#" },
     ],
   },
