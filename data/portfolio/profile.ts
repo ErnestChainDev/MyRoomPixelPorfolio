@@ -7,7 +7,7 @@ export const profile = {
   email: "ernestchaindev@gmail.com",
   github: "https://github.com/ErnestChainDev",
   linkedin: "https://www.linkedin.com/in/ernest-windel-dreo-3934b3368",
-  portfolio: "https://ernestwindeldreo.vercel.app",
+  portfolio: "https://ernest-windel-dreo-portfolio.vercel.app",
 
   summary: [
     "Recent Computer Science graduate with hands-on experience in software development, quality assurance, software testing, and AI-powered application development.",
