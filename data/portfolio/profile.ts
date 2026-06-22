@@ -1,6 +1,6 @@
 export const profile = {
   name: "Ernest Windel Dreo",
-  shortName: "Ernest Dreo",
+  shortName: "Ernest Windel Dreo",
   title: "Software Engineer | Junior QA Engineer | Aspiring AI Engineer",
   location: "Philippines",
   phone: "+63 915 995 1025",
